@@ -14,6 +14,12 @@ NODE_LAUNCHER_RELEASE = '.'.join(
     )
 )
 
+<<<<<<< Updated upstream
+=======
+TARGET_BITCOIN_RELEASE = '22.0'
+TARGET_LND_RELEASE = 'v0.15.0-beta'
+
+>>>>>>> Stashed changes
 
 class StringConstant(object):
     def __init__(self, name: str):
